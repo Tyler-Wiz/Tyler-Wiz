@@ -7,8 +7,8 @@ CS graduate and adept Front-end developer
 * 🔭 I’m currently working on **Ecommerce Project**
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tylertooxclusive@gmail.com](mailto:tylertooxclusive@gmail.com)
-* 🌱 I’m currently using ** Backend Tech - Express JS, Node JS**
-* 💬 Ask me about ** PERN Stack **
+* 🌱 I’m currently using **Backend Tech - Express JS, Node JS**
+* 💬 Ask me about **PERN Stack**
 
 ### Skills
 
