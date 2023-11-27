@@ -1,7 +1,7 @@
 Hi 👋 My name is Tyler
 ========================
 
-CS graduate and adept Front-end developer
+CS graduate and Full Stack Developer
 ----------------------------------
 
 * 🔭 I’m currently working on **Ecommerce Project**
