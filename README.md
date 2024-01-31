@@ -4,7 +4,7 @@ Hi 👋 My name is Tyler
 CS graduate and Full Stack Developer
 ----------------------------------
 
-* 🔭 I’m currently working on **Ecommerce Project**
+* 🔭 I’m currently working on **Gym Membership Website Project**
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tylertooxclusive@gmail.com](mailto:tylertooxclusive@gmail.com)
 * 🌱 I’m currently using **Backend Tech - Express JS, Node JS**
