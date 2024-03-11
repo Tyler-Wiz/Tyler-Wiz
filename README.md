@@ -7,8 +7,8 @@ CS graduate and Full Stack Developer
 * 🔭 I’m currently working on **Gym Membership Website Project**
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tylertooxclusive@gmail.com](mailto:tylertooxclusive@gmail.com)
-* 🌱 I’m currently using **Backend Tech - Express JS, Node JS**
-* 💬 Ask me about **PERN Stack**
+* 🌱 I’m currently using **Backend Tech - Lavarel, tailwind CSS, MySQL**
+* 💬 Ask me about **Front-end and Backend PHP**
 
 ### Skills
 
